@@ -1,22 +1,33 @@
-## 👤 About Me
+## About Me
 
-I am a civil engineer in computer science with expertise in software development. I am proficient in several programming languages including Java, PHP, JavaScript, TypeScript, and C++. I have solid experience with libraries such as Symfony and React, and I am also well-versed in Java EE / Jackarta EE. For database management, I work with servers like MySQL, MariaDB, and SQLite, especially for portable databases.
+I am a **Civil Engineer in Computer Science** and a **software engineer** with strong experience in designing and building reliable and scalable applications.
 
-## ⚙️ My Skills
+I mainly work with **Java**, **PHP**, **JavaScript**, and **TypeScript**, and I have solid experience with modern frameworks such as **Spring**, **Symfony**, **React**, and **Next.js**.  
+On the backend side, I actively use **Java EE / Jakarta EE** and **RESTful API architectures**.
 
-I have exceptional skills in using **Git** and **Git-flow**, allowing me to manage versioning efficiently and collaborate optimally in complex development environments. Additionally, I am proficient in **information systems modeling** using **UML**, enabling me to design robust and well-structured software architectures.
+I also have experience developing:
+- Desktop applications (Java Swing / JavaFX)
+- Web applications (React, Symfony, JEE)
+- API-driven systems
 
+For databases, I work with:
+- **PostgreSQL**
+- **MariaDB**
+- **SQLite** and **H2** (portable and embedded use cases)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/esaie.muhasa/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@esaiemuhasa) 
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=esaiemuhasa&theme=dark&hide_border=false)<br/>
-## 🗂️ Most Used Languages in Public Repositories
-![Esaiemuhasa's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esaiemuhasa&layout=compact&langs_count=10&theme=radical)
-
+I am particularly interested in:
+- **Software architecture**
+- **Distributed systems**
+- **Data modeling**
+- **System interoperability (API, WebSocket, streaming)**
+- **Automation & deployment workflows**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=esaiemuhasa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=esaiemuhasa&theme=dark&hide_border=false)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=esaiemuhasa&icon=0&color=0)](https://visitcount.itsvg.in)
